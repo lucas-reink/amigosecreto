@@ -5,6 +5,7 @@ Este é um simples projeto de **Amigo Secreto** que permite adicionar nomes de a
 ## Índice
 - [Visão Geral](#visão-geral)
 - [Instalação](#instalação)
+- [Demostração](#demostração)
 - [Como Usar](#como-usar)
 - [Dependências](#dependências)
 - [Licença](#licença)
@@ -32,6 +33,10 @@ Siga os passos abaixo para rodar este projeto localmente:
     cd amigosecreto
 
 3. Abra o arquivo index.html em seu navegador para visualizar a aplicação. Não há necessidade de servidor, pois é um projeto estático.
+
+## Demostração
+
+Você pode acessar a versão ao vivo do projeto [aqui](https://lucas-reink.github.io/amigosecreto/)
 
 ## Como Usar
 
