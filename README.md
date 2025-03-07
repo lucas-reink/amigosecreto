@@ -3,13 +3,13 @@
 Este é um simples projeto de **Amigo Secreto** que permite adicionar nomes de amigos a uma lista e sortear um amigo secreto de forma aleatória.
 
 ## Índice
-- [Visão Geral](#visao-geral)
+- [Visão Geral](#visão-geral)
 - [Instalação](#instalação)
 - [Como Usar](#como-usar)
-- [Dependências](#dependencias)
-- [Licença](#licenca)
+- [Dependências](#dependências)
+- [Licença](#licença)
 
-## Visao Geral
+## Visão Geral
 
 O projeto foi criado para ajudar a realizar o sorteio de amigos secretos de forma simples e interativa. A interface permite que o usuário adicione os nomes dos amigos, visualize a lista de amigos e faça o sorteio de um amigo secreto aleatório.
 
